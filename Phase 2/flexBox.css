@@ -1,0 +1,61 @@
+.featuresa {
+  display: flex;
+  flex-wrap: nowrap;             
+  gap: 20px;
+  padding: 2rem;
+}
+
+.carda{      
+  flex-shrink: 1;         
+  min-width: 250px;             /* But don't get smaller than 250px */
+  padding: 20px;
+  background: #ddd;
+  border-radius: 8px;
+}
+.featuresb {
+  display: flex;
+  flex-wrap: wrap;             
+  gap: 20px;
+  padding: 2rem;
+}
+
+.cardb {      
+  flex-basis: 1;         
+  min-width: 250px;             /* But don't get smaller than 250px */
+  padding: 20px;
+  background: #ddd;
+  border-radius: 8px;
+}
+.featuresc {
+  display: flex;
+  flex-wrap: wrap;             
+  gap: 20px;
+  padding: 2rem;
+}
+
+.cardc {      
+  flex: 1;         
+  min-width: 250px;             /* But don't get smaller than 250px */
+  padding: 20px;
+  background: #ddd;
+  border-radius: 8px;
+}
+
+
+.features1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding: 2rem;
+}
+.card1{
+    flex-basis: 1;
+    flex-grow: 1;
+    background-color: aqua;
+    min-width: 200px;
+    min-height: 400px;
+    padding: 20px;
+    border-radius: 8px;
+}

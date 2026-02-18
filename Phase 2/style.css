@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(rgb(26, 24, 24), green, blue);
+}
+h1{
+    color: #ff0000;
+    text-align: center;
+    margin-top: 2rem;
+}
+.btn-submit{
+    background-color: blueviolet;
+    padding: 10px;
+}
+#paragraph{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: lighter;
+    font-style: normal;
+    padding: 10px;
+}
+.con{
+    border: solid 1px gray;
+    padding: 1rem;
+    margin: 5px 50px ;
+}
+#empty{
+    height: 10rem;
+    width: 20rem;
+    background-color: black
+}
