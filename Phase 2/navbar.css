@@ -1,0 +1,16 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div{
+    background-color: blue;
+    width: 25px;
+    height: 25px;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
